@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1019966693419",
+    "project_id": "messageapp-9894e",
+    "storage_bucket": "messageapp-9894e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019966693419:android:3a6cfe3e6ad5dbcc644a6e",
+        "android_client_info": {
+          "package_name": "com.example.messageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019966693419-sga46689cksocs5v6q4fiann0cgqshj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFucSy77DldCDLyreW-Jt6dlHSOVBX9J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019966693419-sga46689cksocs5v6q4fiann0cgqshj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019966693419:android:c1449d944c92d035644a6e",
+        "android_client_info": {
+          "package_name": "com.example.realtimechapapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019966693419-sga46689cksocs5v6q4fiann0cgqshj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFucSy77DldCDLyreW-Jt6dlHSOVBX9J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019966693419-sga46689cksocs5v6q4fiann0cgqshj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

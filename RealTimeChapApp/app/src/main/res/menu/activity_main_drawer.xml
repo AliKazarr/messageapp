@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_grupolustur"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Grup Oluştur" />
+
+        <item
+            android:id="@+id/nav_grubauyeekle"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Gruba Uye Ekle" />
+
+        <item
+            android:id="@+id/nav_mesajolutur"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Mesaj Oluştur" />
+
+        <item
+            android:id="@+id/nav_mesajgonder"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="mesaj gonder" />
+        <item
+            android:id="@+id/nav_cikisyap"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Çıkış Yap" />
+
+    </group>
+</menu>

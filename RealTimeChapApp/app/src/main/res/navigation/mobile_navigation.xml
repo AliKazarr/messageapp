@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_grupolustur">
+
+    <fragment
+        android:id="@+id/nav_grupolustur"
+        android:name="com.example.realtimechapapp.ui.grupoluştur.GrupOlusturFragment"
+        android:label="Grup Oluştur"
+        tools:layout="@layout/fragment_grup_olustur" />
+
+    <fragment
+        android:id="@+id/nav_grubauyeekle"
+        android:name="com.example.realtimechapapp.ui.grubauyeekle.GrubaUyeEkleFragment"
+        android:label="Gruba Üye Ekle"
+        tools:layout="@layout/fragment_gruba_uye_ekle" />
+
+    <fragment
+        android:id="@+id/nav_mesajolutur"
+        android:name="com.example.realtimechapapp.ui.mesajgonder.MesajGonderFragment"
+        android:label="Mesaj Oluştur"
+        tools:layout="@layout/fragment_mesaj_olustur" />
+
+    <fragment
+        android:id="@+id/nav_mesajgonder"
+        android:name="com.example.realtimechapapp.ui.mesajgonder.MesajGonderFragment"
+        android:label="Mesaj Gönder"
+        tools:layout="@layout/fragment_grup_olustur" />
+
+
+
+</navigation>
